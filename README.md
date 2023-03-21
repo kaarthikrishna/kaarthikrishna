@@ -10,11 +10,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Node.js | MongoDB | Unity**
-
-- 👯 I’m looking to collaborate on **E-commerce website**
-
-- 🤝 I’m looking for help with **Node.js**
+- 🌱 I’m currently learning **Next.js | React.js | monogoDB**
 
 - 👨‍💻 All of my projects are available at [https://kaarthikrishna.github.io/](https://kaarthikrishna.github.io/)
 
