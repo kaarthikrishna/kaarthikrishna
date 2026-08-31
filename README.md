@@ -8,17 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/k4rthikkrishna" target="blank"><img src="https://img.shields.io/twitter/follow/k4rthikkrishna?logo=twitter&style=for-the-badge" alt="k4rthikkrishna" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **Next.js | React.js | monogoDB**
-
-- 👨‍💻 All of my projects are available at [https://kaarthikrishna.github.io/](https://kaarthikrishna.github.io/)
-
-- 💬 Ask me about **Python | Java | C | C++ | C# | HTML | CSS |Java Script**
-
-- 📫 How to reach me **karthikgkrishnan04@gmail.com**
-
-- ⚡ Fun fact **I'm a human!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
